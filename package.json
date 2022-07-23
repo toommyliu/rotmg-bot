@@ -41,7 +41,7 @@
 		"eslint-config-marine": "^9.3.2",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-import": "^2.26.0",
-		"eslint-plugin-prettier": "^4.0.0",
+		"eslint-plugin-prettier": "^4.2.1",
 		"husky": "^8.0.1",
 		"prettier": "^2.7.1",
 		"tsup": "^6.1.2",
