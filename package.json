@@ -26,7 +26,7 @@
 		"mongodb": "^4.7.0",
 		"nanoid": "^4.0.0",
 		"petitio": "^1.4.0",
-		"pino": "^8.1.0",
+		"pino": "^8.3.1",
 		"templite": "^1.2.0"
 	},
 	"devDependencies": {
