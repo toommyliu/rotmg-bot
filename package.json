@@ -21,7 +21,7 @@
 		"@toommyliu/realmeye-scraper": "github:toommyliu/realmeye-scraper",
 		"common-tags": "^1.8.2",
 		"discord-api-types": "^0.35.0",
-		"discord.js": "^14.0.3",
+		"discord.js": "^14.1.2",
 		"dotenv": "^16.0.1",
 		"mongodb": "^4.7.0",
 		"nanoid": "^4.0.0",
