@@ -12,7 +12,7 @@
 	},
 	"dependencies": {
 		"@ayanaware/bento": "^1.0.0-rc.29",
-		"@chatsift/discord-utils": "^0.2.1",
+		"@chatsift/discord-utils": "^0.2.2",
 		"@chatsift/utils": "^0.2.0",
 		"@discordjs/builders": "^0.15.0",
 		"@discordjs/rest": "^0.5.0",
